@@ -1,0 +1,228 @@
+[19:23:11] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:23:12] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[19:23:12] [Worker-Main-16/INFO]: Loaded 7 recipes
+[19:23:15] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[19:23:15] [Server thread/INFO]: Loading properties
+[19:23:16] [Server thread/INFO]: This server is running CraftBukkit version 3360-Spigot-f65de01-c2e0bbd (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[19:23:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:23:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:23:16] [Server thread/INFO]: Debug logging is disabled
+[19:23:16] [Server thread/INFO]: Default game type: SURVIVAL
+[19:23:16] [Server thread/INFO]: Generating keypair
+[19:23:16] [Server thread/INFO]: Starting Minecraft server on 192.168.123.110:25565
+[19:23:16] [Server thread/INFO]: Using epoll channel type
+[19:23:18] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.0.0-SNAPSHOT
+[19:23:18] [Server thread/INFO]: Preparing level "world"
+[19:23:19] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:23:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:23:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:23:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:23:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:23:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:23:19] [Server thread/INFO]: Mob Spawn Range: 6
+[19:23:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Max TNT Explosions: 100
+[19:23:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:23:19] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:23:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:23:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:23:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:23:19] [Server thread/INFO]: View Distance: 10
+[19:23:19] [Server thread/INFO]: Simulation Distance: 10
+[19:23:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:23:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:23:19] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:23:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:23:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:23:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:23:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:23:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:23:19] [Server thread/INFO]: Mob Spawn Range: 6
+[19:23:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:23:19] [Server thread/INFO]: Max TNT Explosions: 100
+[19:23:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:23:19] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:23:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:23:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:23:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:23:19] [Server thread/INFO]: View Distance: 10
+[19:23:19] [Server thread/INFO]: Simulation Distance: 10
+[19:23:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:23:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:23:20] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:23:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:23:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:23:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:23:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:23:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:23:20] [Server thread/INFO]: Mob Spawn Range: 6
+[19:23:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:23:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:23:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:23:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:23:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:23:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:23:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:23:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:23:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:23:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:23:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:23:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:23:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:23:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:23:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:23:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:23:20] [Server thread/INFO]: Max TNT Explosions: 100
+[19:23:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:23:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:23:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:23:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:23:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:23:20] [Server thread/INFO]: View Distance: 10
+[19:23:20] [Server thread/INFO]: Simulation Distance: 10
+[19:23:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:23:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:23:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:23:21] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:23:21] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[19:23:21] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[19:23:21] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:23:22] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:23:22] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[19:23:23] [Worker-Main-24/INFO]: Preparing spawn area: 0%
+[19:23:23] [Worker-Main-23/INFO]: Preparing spawn area: 0%
+[19:23:24] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:23:24] [Worker-Main-24/INFO]: Preparing spawn area: 0%
+[19:23:25] [Worker-Main-16/INFO]: Preparing spawn area: 2%
+[19:23:25] [Worker-Main-14/INFO]: Preparing spawn area: 5%
+[19:23:26] [Worker-Main-18/INFO]: Preparing spawn area: 5%
+[19:23:26] [Worker-Main-23/INFO]: Preparing spawn area: 5%
+[19:23:27] [Worker-Main-22/INFO]: Preparing spawn area: 5%
+[19:23:27] [Worker-Main-21/INFO]: Preparing spawn area: 8%
+[19:23:28] [Worker-Main-18/INFO]: Preparing spawn area: 22%
+[19:23:28] [Worker-Main-13/INFO]: Preparing spawn area: 44%
+[19:23:29] [Worker-Main-22/INFO]: Preparing spawn area: 49%
+[19:23:29] [Worker-Main-15/INFO]: Preparing spawn area: 54%
+[19:23:30] [Worker-Main-23/INFO]: Preparing spawn area: 66%
+[19:23:30] [Worker-Main-22/INFO]: Preparing spawn area: 87%
+[19:23:31] [Server thread/INFO]: Time elapsed: 11339 ms
+[19:23:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:23:32] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[19:23:32] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[19:23:32] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[19:23:33] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[19:23:33] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:23:34] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[19:23:34] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[19:23:35] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:23:35] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[19:23:36] [Worker-Main-16/INFO]: Preparing spawn area: 5%
+[19:23:36] [Worker-Main-24/INFO]: Preparing spawn area: 18%
+[19:23:37] [Worker-Main-21/INFO]: Preparing spawn area: 30%
+[19:23:37] [Worker-Main-12/INFO]: Preparing spawn area: 53%
+[19:23:38] [Worker-Main-14/INFO]: Preparing spawn area: 81%
+[19:23:38] [Server thread/INFO]: Time elapsed: 6861 ms
+[19:23:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:23:39] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[19:23:39] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[19:23:39] [Worker-Main-24/INFO]: Preparing spawn area: 0%
+[19:23:40] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[19:23:40] [Worker-Main-17/INFO]: Preparing spawn area: 2%
+[19:23:41] [Worker-Main-14/INFO]: Preparing spawn area: 16%
+[19:23:41] [Worker-Main-14/INFO]: Preparing spawn area: 35%
+[19:23:42] [Worker-Main-23/INFO]: Preparing spawn area: 57%
+[19:23:42] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[19:23:42] [Server thread/INFO]: Time elapsed: 4221 ms
+[19:23:42] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.0.0-SNAPSHOT
+[19:23:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:23:43] [Server thread/INFO]: [Geyser-Spigot] 
+[19:23:43] [Server thread/INFO]: [Geyser-Spigot] Geyser 버전 2.0.0-SNAPSHOT (git-master-3d6dd6b)을(를) 불러오는 중
+[19:23:43] [Server thread/INFO]: [Geyser-Spigot] 
+[19:23:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:23:45] [Network Listener - #3/INFO]: [Geyser-Spigot] Geyser를 0.0.0.0:19132에서 시작했습니다
+[19:23:45] [Server thread/INFO]: [Geyser-Spigot] 완료 (1.841초)! 도움말을 보려면 /geyser help를 실행하세요!
+[19:23:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:23:45] [Server thread/INFO]: Done (27.096s)! For help, type "help"
+[19:25:34] [User Authenticator #1/INFO]: UUID of player Itz_oREo is a3bfd615-4e9a-4aa3-b7ec-fb38447ac5b8
+[19:25:34] [Server thread/INFO]: Itz_oREo[/121.136.99.95:1194] logged in with entity id 109 at ([world]492.5407018192611, 73.0, -1021.3113997388036)
+[19:29:08] [Server thread/WARN]: Itz_oREo was kicked for floating too long!
+[19:29:08] [Server thread/INFO]: Itz_oREo lost connection: Flying is not enabled on this server
+[19:29:08] [Server thread/INFO]: Itz_oREo left the game
+[19:29:08] [Server thread/WARN]: handleDisconnection() called twice
+[19:29:14] [User Authenticator #2/INFO]: UUID of player Itz_oREo is a3bfd615-4e9a-4aa3-b7ec-fb38447ac5b8
+[19:29:14] [Server thread/INFO]: Itz_oREo[/121.136.99.95:2552] logged in with entity id 2407 at ([world]-99.27143434524795, 91.33146019644097, -1367.9416116248624)
+[19:30:26] [Server thread/WARN]: Itz_oREo was kicked for floating too long!
+[19:30:26] [Server thread/INFO]: Itz_oREo lost connection: Flying is not enabled on this server
+[19:30:26] [Server thread/INFO]: Itz_oREo left the game
+[19:30:26] [Server thread/WARN]: handleDisconnection() called twice
+[19:30:34] [User Authenticator #3/INFO]: UUID of player Itz_oREo is a3bfd615-4e9a-4aa3-b7ec-fb38447ac5b8
+[19:30:34] [Server thread/INFO]: Itz_oREo[/121.136.99.95:2561] logged in with entity id 2827 at ([world]3.461799163234967, 112.63794541972796, -1316.83009383054)
+[19:33:14] [Server thread/INFO]: Plugins (1): [0;32;1mGeyser-Spigot[m
+[19:33:23] [Server thread/INFO]: [Server] 서버 꺼질 예정
+[19:33:27] [Async Chat Thread - #0/INFO]: <Itz_oREo> :([m
+[19:33:32] [Async Chat Thread - #0/INFO]: <Itz_oREo> 리붓 함>?[m
+[19:33:33] [Server thread/INFO]: [Server] 한 10분 이따 다시 켜질거야
+[19:33:37] [Async Chat Thread - #0/INFO]: <Itz_oREo> okay[m
+[19:33:41] [Async Chat Thread - #0/INFO]: <Itz_oREo> 즉시 꺼짐?[m
+[19:33:42] [Server thread/INFO]: [Server] 서버 옮기는중
+[19:33:49] [Server thread/INFO]: [Server] 말하면 끌게
+[19:33:50] [Async Chat Thread - #0/INFO]: <Itz_oREo> 좌표 옴ㄻ기는 거[m
+[19:33:53] [Async Chat Thread - #0/INFO]: <Itz_oREo> 좌표 옮기는거[m
+[19:33:55] [Async Chat Thread - #0/INFO]: <Itz_oREo> 뭐래[m
+[19:33:58] [Async Chat Thread - #0/INFO]: <Itz_oREo> 좌표 출력하는거[m
+[19:33:59] [Async Chat Thread - #0/INFO]: <Itz_oREo> 구현할거임?[m
+[19:34:02] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:34:08] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:34:13] [Server thread/INFO]: [Server] ㄴㄴ
+[19:34:24] [Server thread/INFO]: [Server] 그냥 24시간 서버 되게 옮길거야
+[19:34:27] [Async Chat Thread - #0/INFO]: <Itz_oREo> ok[m
+[19:34:28] [Server thread/INFO]: [Server] 내 노트북 말고
+[19:34:39] [Server thread/INFO]: [Server] 닫는다
+[19:34:42] [Async Chat Thread - #0/INFO]: <Itz_oREo> ㅐㅏ[m
+[19:34:43] [Async Chat Thread - #0/INFO]: <Itz_oREo> ok[m
+[19:34:44] [Server thread/INFO]: Itz_oREo lost connection: Disconnected
+[19:34:44] [Server thread/INFO]: Itz_oREo left the game
+[19:34:46] [Server thread/INFO]: Stopping the server
+[19:34:46] [Server thread/INFO]: Stopping server
+[19:34:46] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.0.0-SNAPSHOT
+[19:34:46] [Server thread/INFO]: [Geyser-Spigot] Geyser를 종료하는 중입니다.
+[19:34:46] [Server thread/INFO]: [Geyser-Spigot] Geyser가 종료되었습니다.
+[19:34:46] [Server thread/INFO]: Saving players
+[19:34:46] [Server thread/INFO]: Saving worlds
+[19:34:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:34:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:34:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:34:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:34:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:34:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:34:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
